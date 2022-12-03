@@ -1,0 +1,13 @@
+.appBar {
+    border-radius: 15px;
+    margin: 10px 0;
+    padding: 15px;
+}
+
+.heading {
+    color: red;
+}
+
+.image {
+    margin-left: 15px;
+}
